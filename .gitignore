@@ -1,0 +1,16 @@
+.env
+
+*.pdf
+*.ipynb
+*.png
+*.csv
+
+dataset_parameter_finetuning.txt
+demo.py
+
+PREDICTION.py
+SIMULATION.py
+
+visualizations/
+
+.ipynb_checkpoints
